@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is LEE JIHO. I'm so glad to meet you. Thanks for visiting my profile~
 <!--
 **ljh060705-ctrl/ljh060705-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
